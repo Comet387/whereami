@@ -120,4 +120,4 @@ npm start
 
 ## 许可证
 
-根据 GNU General Public License v3.0 (GNU 通用公共许可证 v3.0) 分发。更多信息请参阅 `LICENSE` 文件。
+GNU Affero General Public License v3.0
